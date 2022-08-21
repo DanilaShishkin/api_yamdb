@@ -142,4 +142,4 @@ Send a POST request to /api/v1/titles/ with a json string:
 =======
 >**It is not allowed to add works that have not yet been released (the year of release cannot be greater than the current one).**
 >**When adding a new work, you need to specify the already existing category and genre.**
->>>>>>> fe4fad4d8488f5526878f58e5d9020ff2ad76a74
+
